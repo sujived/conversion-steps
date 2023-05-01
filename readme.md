@@ -100,3 +100,22 @@ export default PageName;
 6. Internal Links
 7. Content 
 8. Images
+
+
+# github coomands
+
+## for fetch new code 
+```
+git pull
+```
+
+## for push code to main repo
+```
+git init
+
+git add .
+
+git commit -m "commitName"
+
+git push
+```
