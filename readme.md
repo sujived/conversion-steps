@@ -88,7 +88,7 @@ export default PageName;
 
 ## step 4.
 
-call this components in our page and import its dynamically
+- call this components in our page and import its dynamically
 
 ## step 5. 
 - after completed page check this parameters 
