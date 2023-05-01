@@ -104,6 +104,8 @@ export default PageName;
 
 # github coomands
 
+## Need to open git Bash 1st
+
 ## for fetch new code 
 ```
 git pull
