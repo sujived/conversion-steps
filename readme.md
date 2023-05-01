@@ -83,8 +83,8 @@ export default PageName;
 
 - create folder in components folder according to page name and create components
 - eg. page-name ->
-- PNSectionC.jsx
-- PNSectionD.jsx
+- PNSectionC.jsx - copy content from outsourcing sectionC 
+- PNSectionD.jsx - if video section is there then copy outsourcing section D otherwise copy sectionE
 
 ## step 4.
 
