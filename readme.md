@@ -89,3 +89,11 @@ export default PageName;
 ## step 4.
 
 call this components in our page and import its dynamically
+
+## step 5. 
+- after completed page check this parameters 
+1. alt tag
+2. canonicles 
+3. title 
+4. description 
+5. keywords 
