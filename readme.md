@@ -97,3 +97,6 @@ call this components in our page and import its dynamically
 3. title 
 4. description 
 5. keywords 
+6. Internal Links
+7. Content 
+8. Images
